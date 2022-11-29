@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/tree_assessment" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
